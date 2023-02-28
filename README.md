@@ -2,7 +2,7 @@
 
 ## Project/Goals
 In this project, we use three different APIs, CityBikes for collecting city bikes data, and FourSquare and Yelp for collecting venues information. The effect of independent variables will be investigated on the target and a multivariable regression model will be created. 
-This prossess is performed for the city of Toronto, ON, CA. As an extra work, also prossess is performed for the city of Rio de Janeiro and presented [here](https://github.com/SalvaSamimi/Project-2-Statistical-Modelling-with-Python-Rio-de-Janeiro.git/) 
+This prossess is performed for the city of Toronto, ON, CA. As extra work, also process is performed for the city of Rio de Janeiro and presented [here](https://github.com/SalvaSamimi/Project-2-Statistical-Modelling-with-Python-Rio-de-Janeiro.git/) 
 
 
 
